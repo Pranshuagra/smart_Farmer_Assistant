@@ -1,11 +1,19 @@
+
 ---
 title: Farmer Assistant
-emoji: 😻
-colorFrom: yellow
-colorTo: red
+emoji: 🌱
+colorFrom: green
+colorTo: yellow
 sdk: docker
-pinned: false
-license: mit
+app_port: 7860
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# Farmer Assistant
+
+AI Based Farmer Assistant Web Application.
+
+Features:
+- Crop Recommendation
+- Plant Disease Detection
+- Weather Information
+- Market Prices
